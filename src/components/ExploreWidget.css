@@ -1,0 +1,10 @@
+.small-widget {
+  background-color: transparent !important;
+  border-color: transparent !important;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.ant-modal-content {
+  background-color: transparent !important;
+}
